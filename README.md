@@ -12,11 +12,11 @@ The default libraries that come with the Anaconda distribution for Python will b
 
 ## Project Motivation
 My interest in this project started a month ago when me and my wife started searching for a house. It was important for us to understand key drivers of house prices. Full list of questions I sought to answer are:
-(1). What are the busiest times of the year to visit Boston?
-(2). Who are the hosts with the most number of AirBnb listings?
-(3). Which are the most popular neighbourhoods based on average number of reviews?
-(4). Which neighbourhoods are considered the most expensive in Boston?
-(5). What are the key drivers of prices of AirBnb listings?
+1. What are the busiest times of the year to visit Boston?
+2. Who are the hosts with the most number of AirBnb listings?
+3. Which are the most popular neighbourhoods based on average number of reviews?
+4. Which neighbourhoods are considered the most expensive in Boston?
+5. What are the key drivers of prices of AirBnb listings?
 
 The full set of files powering this project are not included here, but are available on the kaggle site -https://www.kaggle.com/airbnb/boston.
 
