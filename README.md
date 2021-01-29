@@ -24,4 +24,4 @@ The full set of files powering this project are not included here, but are avail
 A .ipyn is available here encompassing the full build E2E. It starts of tidying the data, and then goes straight into answering the core questions listed above. Comments are included to help the reader figure out what is being done and why.
 
 ## Results
-The main results of the code are available here
+The main results of the code are available here https://paulfru.medium.com/5-things-to-consider-when-booking-an-airbnb-in-boston-e950e08ea287
