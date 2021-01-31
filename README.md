@@ -8,7 +8,7 @@
 
 
 ## Installation
-The default libraries that come with the Anaconda distribution for Python will be enough to run this code. The code should be run on Python 3.
+The default libraries that come with the Anaconda distribution for Python will be enough to run this code. The code should be run on Python 3. The main libraries used include pandas, numpy, matplotlib, seaborn and scikit learn.
 
 ## Project Motivation
 My interest in this project started a month ago when me and my wife started searching for a house. It was important for us to understand key drivers of house prices. Full list of questions I sought to answer are:
@@ -21,7 +21,13 @@ My interest in this project started a month ago when me and my wife started sear
 The full set of files powering this project are not included here, but are available on the kaggle site -https://www.kaggle.com/airbnb/boston.
 
 ## File Descriptions
-A .ipyn is available here encompassing the full build E2E. It starts of tidying the data, and then goes straight into answering the core questions listed above. Comments are included to help the reader figure out what is being done and why.
+A .ipynb is available here encompassing the full build E2E. It starts of tidying the data, and then goes straight into answering the core questions listed above. Comments are included to help the reader figure out what is being done and why.
+
+The link to the github repository is: https://github.com/Pullooo/Predicting-airBnB-listings-for-Boston
 
 ## Results
 The main results of the code are available here https://paulfru.medium.com/5-things-to-consider-when-booking-an-airbnb-in-boston-e950e08ea287
+
+## Acknowledgements
+I thank AirBnB for making this data readily available, and also Kaggle for hosting this data on their website.
+
